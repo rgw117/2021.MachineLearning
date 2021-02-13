@@ -4,7 +4,10 @@
 
 ## 수업정보
 - 수업방식: 비대면(동영상)
-- 질의응답: slack 사용 (핸드폰 App 혹은 PC App 설치를 통해 실시간 질의응답 가능)
+- 질의응답: [slack 사용](https://2021-machinelearning.slack.com)
+  - 수강신청 이후 포탈상에 등록된 이메일을 통해 슬랙 초대 메일 발송 
+  - 핸드폰 App 혹은 PC App 설치를 통해 실시간 질의응답 가능
+- 실습/과제점수 채점 현황: [채점파일](https://docs.google.com/spreadsheets/d/1GqRQg1I8KcUrwOh4uqUR--k8e5wBq8qfCyc7WD_5vmQ/edit?usp=sharing)
 
 ## 강의계획서
 - 수업시간: 001반 월/수(15:00-16:30) / 002반 월/수(16:30-18:00) 
