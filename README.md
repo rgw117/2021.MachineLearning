@@ -16,7 +16,7 @@
 
 | week | Cource Contents | LectureNote | Date |  Video | Etc | 
 |:---:|:---:|:---:|:---:|:---:|:---:| 
-| 1 | 교과목 소개 | [PDF]() | 2021.03.03 | [Youtube] | FL 1-8 시청 |
+| 1 | 교과목 소개 | [PDF]() | 2021.03.03 | [Youtube] | FL 1-8 시청.. |
 
 
 ## 보충자료-외부동영상
