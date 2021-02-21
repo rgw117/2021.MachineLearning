@@ -7,7 +7,6 @@
 - 질의응답: [slack 사용](https://2021-machinelearning.slack.com)
   - 수업용 슬랙 그룹 : https://join.slack.com/t/2021-machinelearning/shared_invite/zt-mhak0g8h-1kr~KKAiqoGJu9bXaBte2w  (회원 가입 후 클릭하여 입실 요망)
     - 반드시 [학번]이름 으로 닉네임을 설정 할 것
-  - 수강신청 이후 포탈상에 등록된 이메일을 통해 슬랙 초대 메일 발송 
   - 핸드폰 App 혹은 PC App 설치를 통해 실시간 질의응답 가능
 - 실습/과제점수 채점 현황: [채점파일](https://docs.google.com/spreadsheets/d/1GqRQg1I8KcUrwOh4uqUR--k8e5wBq8qfCyc7WD_5vmQ/edit?usp=sharing)
 
