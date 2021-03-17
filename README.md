@@ -30,6 +30,6 @@
 | 3 | ML 생애주기_1 (이론) | [PDF](https://www.dropbox.com/s/nup3k0ssc0o6yi9/%5B%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%5D%5B3%EC%A3%BC%EC%B0%A8%5D%20ML%EC%83%9D%EC%95%A0%EC%A3%BC%EA%B8%B0.pdf?dl=0) | 2021.03.17 | [Youtube](https://youtu.be/zbX4k_HYinQ) | |
 | 3 | ML 생애주기_2 (이론) |  | 2021.03.17 | [Youtube](https://youtu.be/5yM-JkSAb7M) | |
 | 3 | ML 생애주기_3 (이론) |  | 2021.03.17 | [Youtube](https://youtu.be/pXkX5Ai8Iks) | |
-| 3 | ML 생애주기_4 (이론) |  | 2021.03.17 | [Youtube](https://youtu.be/3xkkuOTpMIk) | |
+| 3 | ML 생애주기_4 (이론) |  | 2021.03.17 | [Youtube](https://youtu.be/ZTddSFuUBnE) | |
 
 
