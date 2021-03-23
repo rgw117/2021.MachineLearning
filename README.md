@@ -9,9 +9,6 @@
 ## 수업정보
 - 수업방식: 비대면 녹화영상 & 슬랙통한 질의응답
 - 질의응답: [slack 사용](https://2021-machinelearning.slack.com)
-  - 수업용 슬랙 그룹 : https://join.slack.com/t/2021-machinelearning/shared_invite/zt-mhak0g8h-1kr~KKAiqoGJu9bXaBte2w  (회원 가입 후 클릭하여 입실 요망)
-    - 반드시 [학번]이름 으로 닉네임을 설정 할 것
-  - 핸드폰 App 혹은 PC App 설치를 통해 실시간 질의응답 가능
 - 실습/과제점수 채점 현황: [채점파일](https://docs.google.com/spreadsheets/d/1GqRQg1I8KcUrwOh4uqUR--k8e5wBq8qfCyc7WD_5vmQ/edit?usp=sharing)
 
 ## 강의계획서
