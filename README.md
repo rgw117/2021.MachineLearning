@@ -31,5 +31,8 @@
 | 3 | ML 생애주기_2 (이론) |  | 2021.03.17 | [Youtube](https://youtu.be/5yM-JkSAb7M) | |
 | 3 | ML 생애주기_3 (이론) |  | 2021.03.17 | [Youtube](https://youtu.be/pXkX5Ai8Iks) | |
 | 3 | ML 생애주기_4 (이론) |  | 2021.03.17 | [Youtube](https://youtu.be/ZTddSFuUBnE) | |
+| 4 | 사이킷런이란 (이론) | [PDF](https://github.com/sejongresearch/2021.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%B5%E1%86%BA%E1%84%85%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A1%E1%86%AB.pdf) | 2021.03.24 | [Youtube](https://youtu.be/NvczZp_uEL0) | |
+| 4 | 데이터 전처리_1 (이론+실습) | [PDF](https://github.com/sejongresearch/2021.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B4%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5.pdf) | 2021.03.24 | [Youtube](https://youtu.be/Cqqr1WB5ZMk) | |
+| 4 | 데이터 전처리_2 (이론+실습) |  | 2021.03.24 | [Youtube](https://youtu.be/vZvBI6_Qhhg) | |
 
 
