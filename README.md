@@ -38,6 +38,6 @@
 | 6 | 로지스틱 회귀 (이론) |  | 2021.04.05 | [Youtube](https://youtu.be/2jknlNEP92Y) | |
 | 6 | 로지스틱 회귀 (이론+실습) |  | 2021.04.05 | [Youtube](https://youtu.be/EPH7SoISuU4) | [과제](https://github.com/sejongresearch/2021.MachineLearning/blob/main/Labs/6%EC%A3%BC%EC%B0%A8/%EA%B3%BC%EC%A0%9C.md) 마감 4/11|
 | 7 | 판별 분석 (이론) |  | 2021.04.12 | [Youtube](https://youtu.be/YUQF5veIvxE) | |
-| 7 | 판별 분석 (실습) |  | 2021.04.12 | [Youtube](https://youtu.be/K1Iw_ED2inY) | [과제]() 마감 4/18|
+| 7 | 판별 분석 (실습) |  | 2021.04.12 | [Youtube](https://youtu.be/K1Iw_ED2inY) | [과제](https://github.com/sejongresearch/2021.MachineLearning/blob/main/Labs/7%EC%A3%BC%EC%B0%A8/%EA%B3%BC%EC%A0%9C.md) 마감 4/18|
 
 
